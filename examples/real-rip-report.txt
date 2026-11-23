@@ -1,0 +1,33 @@
+Viseme Doctor report — character_mesh
+Mesh: 15197 vertices, 44 shape keys (excluding Basis)
+
+VISEMES: 0/15 present
+  [MISSING] vrc.v_sil
+  [MISSING] vrc.v_pp
+  [MISSING] vrc.v_ff
+  [MISSING] vrc.v_th
+  [MISSING] vrc.v_dd
+  [MISSING] vrc.v_kk
+  [MISSING] vrc.v_ch
+  [MISSING] vrc.v_ss
+  [MISSING] vrc.v_nn
+  [MISSING] vrc.v_rr
+  [MISSING] vrc.v_aa
+  [MISSING] vrc.v_e
+  [MISSING] vrc.v_ih
+  [MISSING] vrc.v_oh
+  [MISSING] vrc.v_ou
+
+BLINK: MISSING: blink (blink=False, blink.L=False, blink.R=False)
+
+LEFT/RIGHT PAIR GAPS:
+  ウィンク右 has no counterpart ウィンク左
+  ウィンク２右 has no counterpart ウィンク２左
+
+NEAR-DUPLICATE KEYS:
+  Shout / Shout 2
+  Worry 2 / Worry L / Worry R
+  にやり / にやり２ / にやり３
+  ウィンク / ウィンク右 / ウィンク２ / ウィンク２右
+
+VERDICT: NOT READY — see above

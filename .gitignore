@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Generated reports (the samples under examples/ are committed on purpose)
+report.json
+report.md
+*.stdout
+
+# Test fixture output
+synthetic-export/
+ripdoctor-synthetic/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
